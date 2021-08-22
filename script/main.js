@@ -126,7 +126,7 @@ const animationTimeline = () => {
         z: 10,
         opacity: 0
       },
-      "+=0.5"
+      "+=2.5"
     )
     .to(
       ".idea-5 span",
